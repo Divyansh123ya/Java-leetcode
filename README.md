@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0048-rotate-image) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
