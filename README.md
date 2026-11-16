@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
