@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0118-pascals-triangle) |
 | [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0118-pascals-triangle) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
