@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0502-ipo](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0502-ipo) |
 | [0867-transpose-matrix](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0867-transpose-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyansh123ya/Java-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Divyansh123ya/Java-leetcode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
